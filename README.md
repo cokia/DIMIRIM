@@ -3,6 +3,6 @@
 VB.net으로 개발하였습니다.
 
 
-https://github.com/sengsung
-https://github.com/ldj6192
-https://github.com/choko0318
+# https://github.com/sengsung
+# https://github.com/ldj6192
+# https://github.com/choko0318
